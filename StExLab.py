@@ -1,13 +1,5 @@
 import streamlit as st
-from streamlit_drawable_canvas import st_canvas
-import pandas as pd
-import numpy as np
-from streamlit import sidebar
-from PIL import Image
 from datetime import datetime
-import random
-import time
-import matplotlib.pyplot as plt
 import urllib.parse
 from streamlit_ace import st_ace
 
